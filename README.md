@@ -172,7 +172,7 @@
 
 ### Logs,
 
-`anup@ubunut-20046:~$ ls -ltr /var/log`
+`anup@ubuntu-2210:~$ ls -ltr /var/log`
 
 <br>
 
