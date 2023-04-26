@@ -188,3 +188,23 @@
 `anup@ubuntu-2210:~$ cat /etc/apt/sources.list`
 
 <br>
+
+### Software details,
+
+`anup@ubuntu-2210:~$ apt list`
+
+`anup@ubuntu-2210:~$ apt list --installed`
+
+`anup@ubuntu-2210:~$ apt list --upgradeable`
+
+`anup@ubuntu-2210:~$ apt list apache2`
+
+`anup@ubuntu-2210:~$ apt list | grep nginx`
+
+<br>
+
+`anup@ubuntu-2210:~$ dpkg --list`
+
+`anup@ubuntu-2210:~$ dpkg --list | grep nginx`
+
+<br>
