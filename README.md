@@ -2,7 +2,14 @@
 
 `anup@ubuntu-2210:~$ sudo apt-get install net-tools`
 
+`anup@ubuntu-2210:~$ sudo apt-get install openssh-server`
+
+`anup@ubuntu-2210:~$ sudo apt-get install openssh-client`
+
+
 `anup@ubuntu-2210:~$ ifconfig`
+
+`PS C:\Users\uniqs> ssh anup@192.168.56.101`
 
 <br>
 
