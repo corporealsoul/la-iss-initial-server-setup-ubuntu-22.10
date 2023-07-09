@@ -99,13 +99,13 @@
 
 `anup@ubuntu-2210:~$ adduser ubuntu-user`
 
+`anup@ubuntu-2210:~$ passwd anup`
+
+`anup@ubuntu-2210:~$ id anup`
+
 `anup@ubuntu-2210:~$ usermod -aG sudo ubuntu-user`
 
 `anup@ubuntu-2210:~$ finger ubuntu-user`
-
-`anup@ubuntu-2210:~$ sudo usermod -aG sudo anup`
-
-
 
 
 
