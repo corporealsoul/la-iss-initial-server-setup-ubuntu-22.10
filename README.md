@@ -103,6 +103,12 @@
 
 `anup@ubuntu-2210:~$ finger ubuntu-user`
 
+`anup@ubuntu-2210:~$ sudo usermod -aG sudo anup`
+
+
+
+
+
 <br>
 
 ### Groups information,
